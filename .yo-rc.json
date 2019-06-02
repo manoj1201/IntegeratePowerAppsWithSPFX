@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "spfx-power-apps-form",
+    "libraryId": "2324b518-6798-4544-8f99-8f47cfe00f6f",
+    "environment": "spo"
+  }
+}

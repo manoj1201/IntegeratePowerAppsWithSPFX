@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-power-apps-form-client-side-solution",
+    "id": "2324b518-6798-4544-8f99-8f47cfe00f6f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-power-apps-form.sppkg"
+  }
+}
